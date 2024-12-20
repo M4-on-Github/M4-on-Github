@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @M4-on-Github
-- 👀 I’m interested in having a good life while doing Computer Science stuff.
-- 🌱 I’m currently learning anything that crosses my mind.
+- 👀 I’m interested in using Maths and CS as my main approach to life.
+- 🌱 I’m currently learning Data Structures, Networking, Chaos Theory and Game Theory.
 - 💞️ I’m looking to collaborate on whatever I can do.
-- 📫 How to reach me ...
+- 📫 How to reach me moemyint.myatmaung@my.maryvillecollege.edu.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't have a fun fact is my fun fact.
 
